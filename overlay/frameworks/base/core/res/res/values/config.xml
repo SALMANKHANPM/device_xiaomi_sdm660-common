@@ -325,4 +325,7 @@
          strictly needed. -->
     <bool name="config_sf_limitedAlpha">true</bool>
 
+    <!-- System icon area layout weight -->
+    <item name="system_icon_area_weight" format="float" type="integer">1.25</item>
+
 </resources>
