@@ -201,3 +201,6 @@ ro.soc.model=SDM660
 
 # Time
 persist.vendor.delta_time.enable=true
+
+#Misc
+debug.force_no_blanking=true
