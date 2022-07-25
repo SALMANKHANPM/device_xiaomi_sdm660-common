@@ -99,6 +99,12 @@ vendor.audio.adm.buffering.ms=6
 # Bluetooth
 vendor.qcom.bluetooth.soc=cherokee
 
+# Blur
+ro.sf.blurs_are_expensive=0
+ro.surface_flinger.supports_background_blur=0
+ro.launcher.blur.appLaunch=0
+persist.sys.sf.disable_blurs=0
+
 # Camera
 persist.vendor.camera.preview.ubwc=0
 vendor.video.disable.ubwc=1
